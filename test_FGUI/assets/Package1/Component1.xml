@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1820,1090">
+  <displayList>
+    <text id="n0_ja47" name="n0" xy="409,257" size="277,78" fontSize="59" color="#ffffff" text="First FGUI"/>
+    <image id="n2_ja47" name="n2" src="ja472" fileName="Res/testres.jpg" xy="1135,430"/>
+  </displayList>
+</component>

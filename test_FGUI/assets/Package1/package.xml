@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="g33avext">
+  <resources>
+    <component id="i3gl0" name="Component1.xml" path="/" exported="true"/>
+    <image id="ja472" name="testres.jpg" path="/Res/"/>
+    <component id="k4573" name="lalala.xml" path="/Component/" exported="true"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
